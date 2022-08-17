@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "SaveAll.C": "cpp",
+        "analyse.C": "cpp",
+        "Buttons.C": "cpp",
+        "DrawLYSO.C": "cpp",
+        "rootlogon.C": "cpp",
+        "DrawAll.C": "cpp",
+        "DrawDeltaE.C": "cpp",
+        "make.C": "cpp",
+        "AssymVSThick.C": "cpp",
+        "AssymVSBeamY.C": "cpp",
+        "CountPol.C": "cpp"
+    }
+}
